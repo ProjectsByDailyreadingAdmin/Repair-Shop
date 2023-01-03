@@ -108,7 +108,7 @@ header .fa-times {
 }
 
 .home .content button:hover {
-    border: none;
+    border-color: #2597f4;
     background-color: #2597f4;
     color: whitesmoke;
 }
@@ -195,7 +195,7 @@ header .fa-times {
 }
 
 .about .content button:hover {
-    border: none;
+    border-color: #2597f4;
     background-color: #2597f4;
     color: whitesmoke;
 }
@@ -404,7 +404,7 @@ header .fa-times {
 }
 
 .contact button:hover {
-    border: none;
+    border-color: #2597f4;
     background-color: #2597f4;
     color: whitesmoke;
 }
@@ -468,7 +468,7 @@ footer button {
 }
 
 footer button:hover {
-    border: none;
+    border-color: #2597f4;
     background-color: #2597f4;
     color: whitesmoke;
 }
